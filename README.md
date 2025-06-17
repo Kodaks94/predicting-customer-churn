@@ -2,6 +2,7 @@
 
 This project compares several machine learning models for predicting customer churn using the Olist dataset. The goal is to evaluate their performance under a stratified train-test split with engineered features.
 
+You can find the data here : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=product_category_name_translation.csv
 ## Models Evaluated
 We trained and evaluated the following models:
 - **XGBoost**
